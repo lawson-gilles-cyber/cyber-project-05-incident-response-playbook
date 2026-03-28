@@ -1,0 +1,27 @@
+INCIDENT RESPONSE PLAYBOOK
+
+Incident Type: Brute Force Attack
+Severity: HIGH
+
+Detection:
+- Multiple failed login attempts detected
+
+Analysis:
+- Identify IP address
+- Analyze login patterns
+
+Containment:
+- Block IP
+- Disable account
+
+Eradication:
+- Remove attacker access
+- Reset passwords
+
+Recovery:
+- Restore services
+- Monitor activity
+
+Lessons Learned:
+- Improve detection rules
+- Implement MFA
