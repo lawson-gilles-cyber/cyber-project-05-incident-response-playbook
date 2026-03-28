@@ -1,0 +1,7 @@
+INCIDENT TIMELINE
+
+10:00 - Multiple failed logins detected
+10:05 - Alert triggered
+10:10 - Investigation started
+10:20 - IP blocked
+10:30 - Account secured
